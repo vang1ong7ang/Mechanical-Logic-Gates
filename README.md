@@ -20,7 +20,10 @@ While friction in gears is unavoidable in practice, the focus is on eliminating 
 
 ### AND Gate
 
-TODO
+See [AND GATE](AND_GATE.ggb)
+
+![ADD_GATE](https://github.com/user-attachments/assets/c6c2b6cc-33a8-421e-8fa8-fc9de5d454d4)
+
 
 ## Contributing
 
