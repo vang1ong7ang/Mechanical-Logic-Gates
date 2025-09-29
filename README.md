@@ -21,8 +21,10 @@ This project investigates a fundamental question:
 ### AND Gate
 
 - See: [AND_GATE.ggb](AND_GATE.ggb)
-- Preview:  
-  ![AND_GATE](https://github.com/user-attachments/assets/c6c2b6cc-33a8-421e-8fa8-fc9de5d454d4)
+- Preview:
+  ![AND_GATE](https://github.com/user-attachments/assets/ccc40997-a9c6-486f-bfa7-ba4db32c4ec5)
+
+  
 
 More gate designs and theoretical explorations will be added as the project evolves.
 
